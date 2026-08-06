@@ -1,0 +1,13 @@
+Patient_ID,Department,Age,Wait_Time_mins,Exam_Time_mins,Satisfaction_Score,MyChart_User
+EP1001,Family Medicine,45,15,20,88,Yes
+EP1002,Cardiology,62,30,25,74,No
+EP1003,Orthopedics,28,10,15,95,Yes
+EP1004,Family Medicine,50,45,15,60,No
+EP1005,Cardiology,71,20,30,82,Yes
+EP1006,Pediatrics,8,5,15,98,Yes
+EP1007,Orthopedics,55,35,20,68,No
+EP1008,Pediatrics,12,15,20,90,Yes
+EP1009,Family Medicine,33,25,15,75,Yes
+EP1010,Cardiology,68,40,20,65,No
+EP1011,Orthopedics,41,15,25,85,Yes
+EP1012,Family Medicine,59,10,20,92,Yes
