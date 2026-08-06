@@ -15,7 +15,7 @@ This project processes daily clinic data to calculate patient Length of Stay (LO
     The "Wait Time" Penalty: Visualizations reveal a steep drop in patient satisfaction when wait times exceed 15-20 minutes, regardless of the actual exam duration.
 
 🚀 Quick Start
-Bash
 
+Bash
 pip install pandas matplotlib seaborn
 python your_script_name.py
